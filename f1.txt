@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is file 1
+=======
+This is file 1.
+Writing this change in test1banch for cherrypicking concept-1.
+Writing this change in test1banch for cherrypicking concept-2.
+>>>>>>> 0d980f2 (Second commit)
